@@ -85,7 +85,7 @@ void cli_print_banner()
     // uart_puts("=======================================\r\n");
     // uart_puts("           Welcome to Shell            \r\n");
     // uart_puts("=======================================\r\n");
-    uart_puts("Hello, world! 312552025\n");
+    
 }
 
 void do_cmd_cat(char* filepath)
